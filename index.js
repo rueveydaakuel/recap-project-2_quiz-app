@@ -14,5 +14,3 @@ const cardAnswerButton = document.querySelector(
 cardAnswerButton.addEventListener("click", () => {
   cardAnswer.classList.toggle("card__answer--active");
 });
-
-//TASK 2
