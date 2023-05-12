@@ -15,3 +15,9 @@ form {
 button {
   margin-top: 0.5rem;
 }
+
+.logo-form {
+  width: 20px;
+  height: 20px;
+  font-size: large;
+}
