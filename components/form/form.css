@@ -1,0 +1,23 @@
+label {
+  background-color: rgb(255, 255, 255);
+  padding: 1.5rem;
+}
+
+form {
+  display: grid;
+  width: 90%;
+  margin: 150px auto;
+  padding: 10px;
+  border: 1px solid rgb(37, 38, 41);
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 0.5rem;
+}
+
+.logo-form {
+  width: 20px;
+  height: 20px;
+  font-size: large;
+}
